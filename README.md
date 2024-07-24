@@ -1,5 +1,9 @@
 # Human-Ressources-MySQL-PowerBii-
 
+![hr png](https://github.com/user-attachments/assets/cbf8f79a-cdda-4232-bc04-430862b9b57a)
+
+
+
 ## Data Used
 
 **Data** - HR Data with over 22000 rows from the year 2000 to 2020.
