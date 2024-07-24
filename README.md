@@ -1,4 +1,4 @@
-# Human-Ressources-MySQL-PowerBii-
+# Human-Ressources-MySQL-PowerBi
 
 ![hr png](https://github.com/user-attachments/assets/cbf8f79a-cdda-4232-bc04-430862b9b57a)
 
