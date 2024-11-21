@@ -3,6 +3,11 @@
 ![hr png](https://github.com/user-attachments/assets/cbf8f79a-cdda-4232-bc04-430862b9b57a)
 
 
+## Link to Visualize the Dashboard
+[View my Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTA2ZmY1YmYtZDYyOS00NWI4LTgyY2EtYzZmM2M3YzcwZjNiIiwidCI6IjNkZmE1ODc5LTQ3NmYtNDViNC04MDc5LWZlNjBlYWYzZjhhNSJ9)
+
+
+
 
 ## Data Used
 
@@ -43,3 +48,10 @@
 
 - Some records had negative ages and these were excluded during querying(967 records). Ages used were 18 years and above.
 - Some termdates were far into the future and were not included in the analysis(1599 records). The only term dates used were those less than or equal to the current date.
+
+
+
+
+
+
+
